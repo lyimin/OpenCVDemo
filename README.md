@@ -45,7 +45,9 @@ Use OpenCV on iOS
 - Sobel 导数
   
 ```[UIImage sobelWithImage:_normalView.image]```
-  - <img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/1.PNG" width="30%" height="30%" />
+
+
+<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/5.PNG" width="30%" height="30%" />
 
 
 - Laplacian算子
@@ -53,7 +55,7 @@ Use OpenCV on iOS
 ```[UIImage laplacianWithImage:_normalView.image]```
 
 
-<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/1.PNG" width="30%" height="30%" />
+<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/6.PNG" width="30%" height="30%" />
 
 
 - Remapping重映射
@@ -61,7 +63,7 @@ Use OpenCV on iOS
 ```[UIImage remappingWithImage:_normalView.image]```
 
 
-<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/1.PNG" width="30%" height="30%" />
+<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/7.PNG" width="30%" height="30%" />
 
 
 - 卡通
@@ -69,6 +71,6 @@ Use OpenCV on iOS
 ```[UIImage cartoonWithImage:_normalView.image]```
 
 
-<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/1.PNG" width="30%" height="30%" />
+<img src="https://github.com/lyimin/OpenCVDemo/blob/master/openCVDemo/openCVDemo/resouce/8.PNG" width="30%" height="30%" />
 
 
